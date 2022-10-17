@@ -1,0 +1,62 @@
+C:\Users\user\Documents\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\bin\Debug\Spk AgungSiregar.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\bin\Debug\Spk AgungSiregar.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\bin\Debug\Spk AgungSiregar.xml
+C:\Users\user\Documents\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormDataAlternatif.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormMenu.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormPenilaian.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormProsesWASPAS.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormKriteria.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormLaporan.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormLogin.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.Resources.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk AgungSiregar.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk AgungSiregar.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk AgungSiregar.xml
+C:\Users\user\Documents\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk AgungSiregar.pdb
+D:\Program\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk AgungSiregar.exe
+D:\Program\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk AgungSiregar.xml
+D:\Program\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk AgungSiregar.pdb
+D:\Program\Spk AgungSiregar\Spk AgungSiregar\bin\Debug\Spk AgungSiregar.exe
+D:\Program\Spk AgungSiregar\Spk AgungSiregar\bin\Debug\Spk AgungSiregar.pdb
+D:\Program\Spk AgungSiregar\Spk AgungSiregar\bin\Debug\Spk AgungSiregar.xml
+D:\Program\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\ResolveAssemblyReference.cache
+D:\Program\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormDataAlternatif.resources
+D:\Program\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormMenu.resources
+D:\Program\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormPenilaian.resources
+D:\Program\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormProsesWASPAS.resources
+D:\Program\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormKriteria.resources
+D:\Program\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormLaporan.resources
+D:\Program\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormLogin.resources
+D:\Program\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.Resources.resources
+D:\Program\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk AgungSiregar.vbproj.GenerateResource.Cache
+C:\Users\agung\OneDrive\Dokumen\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk AgungSiregar.exe
+C:\Users\agung\OneDrive\Dokumen\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk AgungSiregar.xml
+C:\Users\agung\OneDrive\Dokumen\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk AgungSiregar.pdb
+C:\Users\agung\OneDrive\Dokumen\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\bin\Debug\Spk AgungSiregar.exe
+C:\Users\agung\OneDrive\Dokumen\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\bin\Debug\Spk AgungSiregar.pdb
+C:\Users\agung\OneDrive\Dokumen\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\bin\Debug\Spk AgungSiregar.xml
+C:\Users\agung\OneDrive\Dokumen\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\agung\OneDrive\Dokumen\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormDataAlternatif.resources
+C:\Users\agung\OneDrive\Dokumen\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormMenu.resources
+C:\Users\agung\OneDrive\Dokumen\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormPenilaian.resources
+C:\Users\agung\OneDrive\Dokumen\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormProsesWASPAS.resources
+C:\Users\agung\OneDrive\Dokumen\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormKriteria.resources
+C:\Users\agung\OneDrive\Dokumen\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormLaporan.resources
+C:\Users\agung\OneDrive\Dokumen\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormLogin.resources
+C:\Users\agung\OneDrive\Dokumen\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.Resources.resources
+C:\Users\agung\OneDrive\Dokumen\Visual Studio 2008\Projects\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk AgungSiregar.vbproj.GenerateResource.Cache
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk AgungSiregar.exe
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk AgungSiregar.xml
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk AgungSiregar.pdb
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormDataAlternatif.resources
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormMenu.resources
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormPenilaian.resources
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormProsesWASPAS.resources
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormKriteria.resources
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.FormLogin.resources
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk_AgungSiregar.Resources.resources
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk AgungSiregar\Spk AgungSiregar\obj\Debug\Spk AgungSiregar.vbproj.GenerateResource.Cache
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk AgungSiregar\Spk AgungSiregar\bin\Debug\Spk AgungSiregar.exe
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk AgungSiregar\Spk AgungSiregar\bin\Debug\Spk AgungSiregar.pdb
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk AgungSiregar\Spk AgungSiregar\bin\Debug\Spk AgungSiregar.xml

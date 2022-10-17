@@ -1,0 +1,14 @@
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk-Waspas\Spk-Waspas\obj\Debug\Spk AgungSiregar.exe
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk-Waspas\Spk-Waspas\obj\Debug\Spk AgungSiregar.xml
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk-Waspas\Spk-Waspas\obj\Debug\Spk AgungSiregar.pdb
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk-Waspas\Spk-Waspas\bin\Debug\Spk AgungSiregar.exe
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk-Waspas\Spk-Waspas\bin\Debug\Spk AgungSiregar.pdb
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk-Waspas\Spk-Waspas\bin\Debug\Spk AgungSiregar.xml
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk-Waspas\Spk-Waspas\obj\Debug\Spk_AgungSiregar.FormDataAlternatif.resources
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk-Waspas\Spk-Waspas\obj\Debug\Spk_AgungSiregar.FormMenu.resources
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk-Waspas\Spk-Waspas\obj\Debug\Spk_AgungSiregar.FormPenilaian.resources
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk-Waspas\Spk-Waspas\obj\Debug\Spk_AgungSiregar.FormProsesWASPAS.resources
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk-Waspas\Spk-Waspas\obj\Debug\Spk_AgungSiregar.FormKriteria.resources
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk-Waspas\Spk-Waspas\obj\Debug\Spk_AgungSiregar.FormLogin.resources
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk-Waspas\Spk-Waspas\obj\Debug\Spk_AgungSiregar.Resources.resources
+D:\budiman_sempro\agung\agung siregar\Agung Siregar\SPK PROGRAM\Spk-Waspas\Spk-Waspas\obj\Debug\Spk-Waspas.vbproj.GenerateResource.Cache
